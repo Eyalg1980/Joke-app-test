@@ -1,6 +1,6 @@
 # Milestone 1: Walking Skeleton — תוכנית
 
-סטטוס: באוויר ב-Vercel. הלינק החי: https://joke-app-test.vercel.app. ממתין לאישור המשתמש.
+סטטוס: באוויר ב-Vercel. הלינק החי: https://joke-app-test.vercel.app. אושר על ידי המשתמש (26.10.2026).
 
 ## המטרה
 הדף והפונקציה באוויר ב-Vercel, באותה כתובת, ומדברים זה עם זה. המפתח שמור ב-Vercel, עוד בלי AI.
@@ -73,7 +73,7 @@
   1. ✅ העברית, ה-RTL והעיצוב נבדקו ברוחב של טלפון.
   2. ✅ "חתולים" מחזיר "בדיחה זמנית מהשרת: חתולים. המפתח: נמצא".
   3. ✅ ב-Network יש בקשת POST אחת ל-`https://joke-app-test.vercel.app/api/joke`.
-  4. ⏳ שורה ב-Logs לכל לחיצה: המשתמש בודק ב-Vercel, בלשונית Logs.
+  4. ✅ שורה ב-Logs לכל לחיצה (המשתמש בדק). גם הבדיקה בטלפון עברה.
   5. ✅ אין CORS ואין OPTIONS. בקשת OPTIONS מקבלת 405 בלי כותרות Access-Control.
   6. ✅ בריפו יש רק `.env.example`, ו-`.claude/settings.json` קיים.
   7. לא רלוונטי: נבחרה בדיקה ב-Vercel.
